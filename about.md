@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I write for fun. Interested in global economic and tech policy, while dabbling a bit in finance/investing. Don't know what I want to focus on yet, but will figure that out as I write :)
+I write for fun. Interested in global economic and tech policy, while dabbling a bit in investing. Don't know what I want to focus on yet, but will figure that out as I write more.
 
 ### Who's Grant
 
