@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I write for fun. Interested in global economic and tech policy, while dabbling a bit in finance/investing. Don't know what I want to focus on yet, but will figure that out as I write :)
 
-### More Information
+### Who's Grant
 
-A place to include any other types of information that you'd like to include about yourself.
+Graduated from UC Berkeley's EECS dept. in 2020. Work as a Scientific Advisor at Perkins Coie LLP in their intellectual property and technology practice group. My thoughts are independent of my firm.
 
-### Contact me
+<!-- ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](mailto:email@domain.com) -->
