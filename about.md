@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-I write for fun. Interested in global economic and tech policy, while dabbling a bit in investing. Don't know what I want to focus on yet, but will figure that out as I write more.
+I write for fun. Topics range between technology, finance, and policy.
 
 ### Who's Grant
 
-Graduated from UC Berkeley's EECS dept. in 2020. Work as a Scientific Advisor at Perkins Coie LLP in their intellectual property and technology practice group. My thoughts are independent of my firm.
+Patent/IP law at Perkins Coie LLP, graduate of UC Berkeley. Thoughts are independent of firm's.
 
 <!-- ### Contact me
 
