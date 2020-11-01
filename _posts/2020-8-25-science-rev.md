@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Scientific Revolutions and Social Media?
+title: Social Media, a Form of Scientific Revolution?
 ---
 
 The Structure of Scientific Revolutions is a book on the history of science written by philosopher Thomas Kuhn. In the book, Kuhn challenges the prevailing view of normal science: science develops through the accumulation of established facts and theories. Kuhn proposes an episodic model in which periods of such progression in normal science are disrupted by periods of scientific revolution. During revolutions, anomalies are discovered, a crisis spawns between existing theory and new theory, the scientific community begins to adopt the new theory, and the new paradigm pushes out the old and directs research in new directions. Kuhn’s model is known as “paradigm shift”. Although Kuhn’s model was mainly applied towards hard sciences at the time, it has since been applied to philosophy, sociology, and numerous non-scientific contexts to describe a profound change in a fundamental model or notion or events. 

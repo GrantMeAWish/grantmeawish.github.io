@@ -8,7 +8,7 @@ I write for fun. Topics range between technology, finance, and policy.
 
 ### Who's Grant
 
-Patent/IP law at Perkins Coie LLP, graduate of UC Berkeley. Thoughts are independent of firm's.
+Practice patent/ip law at Perkins Coie LLP, graduate of UC Berkeley. Thoughts are independent of firm's.
 
 <!-- ### Contact me
 

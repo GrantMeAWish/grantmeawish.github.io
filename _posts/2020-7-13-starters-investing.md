@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Starter's Guide to Investing
+title: An Amateur's Guide to Investing
 ---
 
 You've started a new job or perhaps you've been at the same job for some time now. You have a steady income that you use to pay for your living expenses, the occasional dine-out with friends, and some leisure activities. If you have savings lying around, then you're in a good spot. You might have been told to invest those savings, but you don't know quite where to start. Investing can be overwhelming at first, but it's never too late to begin. This guide is intended to be accessible and hit on the fundamental ideas on how to start investing your money. The main topics we will walk through are budgeting and goal setting, setting up an investment account, and asset allocation via the three-fund portfolio.
